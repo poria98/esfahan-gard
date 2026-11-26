@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/esfahan-gard/sw.js');
+  }
+</script>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
