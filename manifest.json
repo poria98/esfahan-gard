@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "معرفی ظرفیت‌های فرهنگی و تاریخی شهرستان‌های استان اصفهان — نایین، کاشان، نطنز، اردستان",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "اصفهان گَرد",
+  "orientation": "any",
+  "scope": "/esfahan-gard/",
+  "short_name": "اصفهان گَرد",
+  "start_url": "/esfahan-gard/",
+  "theme_color": "#10243E",
+  "id": "ir.hozooran.twa"
+}
